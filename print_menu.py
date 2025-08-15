@@ -1,3 +1,5 @@
+#This is the function for printing the menu. The input is taken and stored as menu_choice which is returned. 
+#In main() later on the menu_choice will help us dictate which submenu to enter
 def print_menu():
     print("Welcome to the Inventory System. Please choose which menu to enter below.\n"
           "\n======= Inventory Menu ======="
